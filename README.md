@@ -2,7 +2,7 @@
 ## Student ID: 
 171713
 ## Student name: 
-Tilak Patel
+Patel Tilak Shashikant 
 ## Description
 This project demonstrates the use of Object-Oriented Programming concepts in Python using linked lists.
 ## Files Included in the GIT repository 
