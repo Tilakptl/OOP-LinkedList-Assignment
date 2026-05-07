@@ -5,6 +5,7 @@
 Patel Tilak Shashikant 
 ## Description
 This project demonstrates the use of Object-Oriented Programming concepts in Python using linked lists.
+This project was compiled in VSCode rather than PyCharm.
 ## Files Included in the GIT repository 
 node_practice.py
 linked_list.py
